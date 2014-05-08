@@ -55,6 +55,10 @@
 		font-weight: 600;
 		color: #3e3e3e;
 	}
+
+	#clemsonTiger {
+		color: rgba(234,106,32,1);
+	}
 	
 	h1, h2, h3, h4, h5, h6
 	{
@@ -195,7 +199,7 @@
 	}
 
 	section:last-child,
-	article:last-child,
+	article:last-child
 	{
 		margin-bottom: 0;
 	}
